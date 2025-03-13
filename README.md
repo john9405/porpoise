@@ -1,2 +1,3 @@
 # porpoise
-一个简单的API测试工具
+A simple API testing tool
+This is a practice project for pyqt5.
